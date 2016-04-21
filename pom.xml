@@ -8,6 +8,7 @@
     <artifactId>treasurebox</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
+        <module>treasurebox-framework</module>
         <module>treasurebox-domain</module>
         <module>treasurebox-sql</module>
         <module>treasurebox-service</module>
