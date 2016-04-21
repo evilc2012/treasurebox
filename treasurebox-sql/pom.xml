@@ -13,6 +13,13 @@
     <packaging>jar</packaging>
 
     <dependencies>
+
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>druid</artifactId>
+            <version>${druid.version}</version>
+        </dependency>
+
         <dependency>
             <groupId>evilc.treasurebox</groupId>
             <artifactId>treasurebox-domain</artifactId>
